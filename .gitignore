@@ -1,0 +1,10 @@
+*.pyc
+*.log
+build/
+dist/
+venv/
+*.dll
+*.exe
+*.md
+.idea/
+config.json
